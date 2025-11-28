@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ctrBtn{
+    @apply w-24 h-24 bg-[#9c9d9e] rounded-full items-center justify-center p-2
+}
